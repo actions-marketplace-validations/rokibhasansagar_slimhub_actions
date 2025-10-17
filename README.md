@@ -138,8 +138,7 @@ You can use multiple program group names separated by comma in `retain` input ke
       retain: "browser_firefox,powershell"
 ```
 
-<details>
-  <summary><h3><b><i>Explanation of the Program Group names and details</i></b></h3></summary>
+<h3><b><i>Explanation of the Program Group names and details</i></b></h3>
 
 - `android_sdk`
   - Android SDK, NDK, Emulator, etc.
@@ -230,7 +229,6 @@ You can use multiple program group names separated by comma in `retain` input ke
   - Apache2, Nginx web servers
 - `xvfb`
   - Virtual Framebuffer 'fake' X server
-</details>
 
 <h2>A Humble Pledge</h2>
 
